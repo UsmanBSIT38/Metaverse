@@ -1,3 +1,4 @@
+/* eslint-disable */
 'use client';
 
 import { motion } from 'framer-motion';
@@ -30,8 +31,6 @@ const Footer = () => (
           <p className="font-normal text-[14px] text-white opacity-50">
             Copyright  © 2023 Usman's Metaverse. All rights reserved.
           </p>
-
-         
         </div>
       </div>
     </div>

@@ -1,3 +1,4 @@
+/* eslint-disable-line  lines-around-directive, no-trailing-spaces */
 'use client';
 
 import { motion } from 'framer-motion';
@@ -33,7 +34,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
             className="w-1/2 h-1/2 object-contain"
           />
         </div>
-       
+
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
           {title}
         </h2>
